@@ -360,6 +360,8 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 简述：获取系统中所有已注册用户的信息。
 当忘记用户 id 或者需要查看用户基本资料时，可以使用该接口。
 
+<img width="2419" height="249" alt="830ba27b87e2f8086b119bc77cce9a2a" src="https://github.com/user-attachments/assets/e3cf5e46-6157-44ac-be65-74b37d9ef393" />
+
 请求方式：GET http://<server-ip>:8080/api/allUsers
 
 ```
