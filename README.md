@@ -384,7 +384,6 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 ```
 
 ## 6) 问卷打分标准
-<br>
 视觉真实性<br>
 1. 您觉得视频中的衣服搭配是否自然、符合真实场景？<br>
 👉 1 = 非常不自然，5 = 非常自然<br>
