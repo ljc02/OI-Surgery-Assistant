@@ -1,4 +1,4 @@
-# OI-Surgery-Assistant 分析 APP – 打包与使用说明（v1.0）
+# OI-Surgery-Assistant-APP – 打包与使用说明（v1.0）
 
 > 目标：依据以下 7 点需求完成从“骨骼/皮肤 → 动作周期化 → 视频模型生成/调参 → APP 导入 → 量表评分 → 医患反馈”的一体化流程。  
 > 七点需求：1) OpenSim 模型 skin 套皮；2) 将 .mot 动作修改为周期性；3) 在 Colab 上运行 StableAnimator 与 MimicMotion；4) 视频模型调参；5) 导入 APP 界面；6) 问卷打分标准；7) 患者/医生反馈结果。
