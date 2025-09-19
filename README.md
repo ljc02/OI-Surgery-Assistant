@@ -292,7 +292,7 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 
 ![72afbe038f8820b8db69e9e764932487](https://github.com/user-attachments/assets/07149c37-5b47-44da-a447-608b3a899749)
 
-请求方式：POST [http://<server-ip>:8080/api/schemes/upload](http://1.12.255.194:8080/api/schemes/upload)
+请求方式：POST http://1.12.255.194:8080/api/schemes/upload
 
 请求参数：
 | 参数名               | 类型   | 说明                |
@@ -307,7 +307,7 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 
 1.打开 Postman，选择 POST 请求。
 
-2.在 URL 栏输入：http://<server-ip>:8080/api/schemes/upload。
+2.在 URL 栏输入：http://1.12.255.194:8080/api/schemes/upload
 
 3.切换到 Body → form-data。
 
@@ -332,7 +332,7 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 
 <img width="2417" height="358" alt="ea8c949176a0bcb0736cf33a588dab1b" src="https://github.com/user-attachments/assets/e0693464-37fb-45cc-a070-212e5ec0d073" />
 
-请求方式：POST http://<server-ip>:8080/api/users
+请求方式：POST http://1.12.255.194:8080/api/users
 
 ```json
 {
@@ -362,7 +362,7 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 
 <img width="2419" height="249" alt="830ba27b87e2f8086b119bc77cce9a2a" src="https://github.com/user-attachments/assets/e3cf5e46-6157-44ac-be65-74b37d9ef393" />
 
-请求方式：GET http://<server-ip>:8080/api/allUsers
+请求方式：GET http://1.12.255.194:8080/api/allUsers
 
 ```
   {
