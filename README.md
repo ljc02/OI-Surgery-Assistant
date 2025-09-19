@@ -292,7 +292,7 @@ Postman邀请链接：https://app.getpostman.com/join-team?invite_code=3be8ecf56
 
 ![72afbe038f8820b8db69e9e764932487](https://github.com/user-attachments/assets/07149c37-5b47-44da-a447-608b3a899749)
 
-请求方式：POST http://<server-ip>:8080/api/schemes/upload
+请求方式：POST [http://<server-ip>:8080/api/schemes/upload](http://1.12.255.194:8080/api/schemes/upload)
 
 请求参数：
 | 参数名               | 类型   | 说明                |
